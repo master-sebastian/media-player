@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Guti Media player</title>
+	<link rel="stylesheet" type="text/css" href="assets/css/index.css">
+</head>
+<body>
+	<header class="text-center">
+		<h1>MEDIA PLAYER GUTI SEBAS</h1>
+	</header>
+	<main>
+		<div class="container">
+			<video class="full-width">
+				<source src="assets/media/video.mp4"/>
+			</video>
+			<hr>
+			<div class="text-center">
+				<progress class="full-width" max="100" value="0"></progress>
+				<p></p>
+			</div>
+			<div class="text-center">
+				<button type="button" id="button-primary">Start/Stop</button>
+				<button type="button" id="button-unmuted">Muted/Unmuted</button>
+			</div>
+		</div>
+	</main>
+	<script type="module" src="assets/js/index.js"></script>
+</body>
+</html>

@@ -1,0 +1,1 @@
+En esta carpeta tiene que poner un archivo video.mp4 para que le funcione el reproductor

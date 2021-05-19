@@ -1,0 +1,30 @@
+header{
+	background: blueviolet;
+	color: white;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+
+.container{
+	margin-right:10%; 
+	margin-left: 10%;
+}
+
+.full-width{
+	width: 70%;
+	margin-left:  15%;
+	margin-right:  15%;
+}
+
+button{
+	background-color: blueviolet;
+	color: white;
+	border-radius: 50px 50px 50px 50px;
+	padding: 10px 10px 10px 10px;
+}
+
+.text-center{
+	text-align: center;
+}

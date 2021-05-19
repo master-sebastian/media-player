@@ -1,0 +1,3 @@
+node_modules/
+assets/media/*.mp4
+package-lock.json
